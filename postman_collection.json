@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "47eb9712-006c-40c8-a877-65fb651dc2d6",
+		"name": "QA_Postman_API_Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45715267"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
